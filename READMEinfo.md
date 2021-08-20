@@ -1,3 +1,3 @@
-- Hi, I’m Ozan Oktay
+- Hi, I’m Ozan Oktay electrical and electronics engineering student at Akdeniz University.
 - I’m interested in in machine learning, deep learning, data science, artificial intelligence, etc.
-- How to reach me; LinkedIn: https://www.linkedin.com/in/ozan-oktay
+- How to reach me; LinkedIn: linkedin.com/in/ozan-oktay-a55428189/
