@@ -1,5 +1,3 @@
 - Hi, I’m Ozan Oktay
-- I’m interested in AI
-- How to reach me; 
-LinkedIn: https://www.linkedin.com/in/ozan-oktay
-
+- I’m interested in in machine learning, deep learning, data science, artificial intelligence, etc.
+- How to reach me; LinkedIn: https://www.linkedin.com/in/ozan-oktay
