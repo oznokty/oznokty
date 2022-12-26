@@ -1,3 +1,3 @@
-- Hi, I’m Ozan Oktay electrical and electronics engineering graduate from Akdeniz University.
-- I’m interested in in software engineering, artificial intelligence and game developement.
-- How to reach me; LinkedIn: linkedin.com/in/ozan-oktay/
+My name is Ozan Oktay, I am an electrical and electronics engineering graduate from Akdeniz University. I have incredible passion for video games, programming and AI.
+
+How to reach me; LinkedIn: linkedin.com/in/ozan-oktay/
